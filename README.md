@@ -1,3 +1,18 @@
+## Submission Note
+
+This repository contains my solution to the streaming Markdown parser task.
+The implementation supports optimistic streaming rendering of inline code
+and fenced code blocks, handles token-splitting edge cases, and updates the DOM
+incrementally. Additional markdown features (headings, bold, italics) were added
+as optional enhancements.
+
+---
+
+
+
+
+
+
 # streaming-markdown-parser
 
 Please read this entire page.
